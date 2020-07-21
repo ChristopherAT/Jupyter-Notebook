@@ -4,7 +4,7 @@ This project is for [Dicoding Class Submission](https://www.dicoding.com/academi
 
 ![hand gestures](https://i.imgur.com/HjzZDJK.png "hand gestures")
 
-We added upload widget to the notebook to test the model using our own hand gestures. This is my own hand predictied using the model. The gesture paper is correctly classified as paper.
+The model have a 97.5% accuracy on validation. We added upload widget to the notebook to test the model using our own hand gestures. This is my own hand predictied using the model. The gesture paper is correctly classified as paper.
 
 ![prediction](https://i.imgur.com/ahviGgt.png "prediction")
 
